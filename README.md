@@ -43,9 +43,6 @@ Once the scans are complete, you can generate reports in HTML and PDF formats.
 ### Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow the Contribution Guidelines.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Acknowledgments
 OWASP ZAP: OWASP Zed Attack Proxy Project
 Streamlit: Streamlit - The fastest way to build custom web apps

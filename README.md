@@ -20,16 +20,9 @@ This project is a web application that leverages the OWASP ZAP (Zed Attack Proxy
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/owasp-zap-streamlit-app.git
-    cd owasp-zap-streamlit-app
+    git clone https://github.com/ccrazy-racer/owasp-zap_Streamlit.git
+    cd owasp-zap_Streamlit
     ```
-
-2. Install the required Python packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ### Running the Application
 
 To start the OWASP-ZAP Streamlit App, run the following command:

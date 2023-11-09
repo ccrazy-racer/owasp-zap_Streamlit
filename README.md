@@ -31,8 +31,7 @@ To start the OWASP-ZAP Streamlit App, run the following command:
 streamlit run app.py
 ```
 
-The app will be available in your web browser at 
-## http://localhost:8501.
+The app will be available in your web browser at http://localhost:8501.
 
 ### Usage
 Launch the application by running streamlit run app.py.

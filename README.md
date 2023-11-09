@@ -36,3 +36,23 @@ To start the OWASP-ZAP Streamlit App, run the following command:
 
 ```bash
 streamlit run app.py
+```
+
+The app will be available in your web browser at ##** http://localhost:8501.**
+
+Usage
+Launch the application by running streamlit run app.py.
+
+Use the provided web interface to configure and initiate the Spider, Ajax Spider, or Active Scan.
+
+Once the scans are complete, you can generate reports in HTML and PDF formats.
+
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow the Contribution Guidelines.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+OWASP ZAP: OWASP Zed Attack Proxy Project
+Streamlit: Streamlit - The fastest way to build custom web apps
